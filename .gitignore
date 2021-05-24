@@ -1,2 +1,7 @@
 .idea
 env
+build
+dist
+.eggs
+*.pyc
+src/telegramBot.egg-info

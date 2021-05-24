@@ -8,6 +8,6 @@ setuptools.setup(
     desctiption='telegram bot',
     auth='playmixer',
     license='MIT',
-    install_requires=[''],
-    setup_requires=['pydantic', 'requests']
+    install_requires=['pydantic', 'requests'],
+    setup_requires=['']
 )

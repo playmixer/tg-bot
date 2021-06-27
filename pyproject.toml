@@ -1,14 +1,13 @@
 [tool.poetry]
 name = "telegrambot"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["mixer <playrexim@gmail.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.9"
-pydantic = "1.8.2"
-requests = "2.25.1"
+requests = "^2.25.1"
 
 [tool.poetry.dev-dependencies]
 
